@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "CrossBrow Example",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Example Chrome Extension for the CrossBrow Framework",
+    "description": "The description of the application"
+  }
+}
